@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Stanislav Dimov and I'm a a student, from Bulgaria.</p>
+<p align="left">My name is Stanislav Dimov and I'm a student from Bulgaria.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ASP.NET MVC<br>🎯 Goals: Learn React JS, Node.js and Next.js<br>🎲 Fun fact: I love going to the gym and a  listen to a lot of music</p>
+<p align="left">📚 I'm currently learning ASP.NET MVC<br>🎯 Goals: Learn React JS, Node.js and Next.js<br>🎲 Fun fact: I love going to the gym and I listen to a lot of music</p>
 
 ###
 
